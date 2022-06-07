@@ -10,10 +10,10 @@ Buildout uses custom add-on
 
 https://github.com/foxtrot-dfm1/ploneconf.site
 
-Custom Frontend for this projects
+Custom Frontend for this projects, remastered. Decided to use Volto13 now
 =================
 
--https://github.com/foxtrot-dfm1/plone_training_frontend
+-https://github.com/foxtrot-dfm1/plone_frontend_remastered
 
 
 Installation guide
